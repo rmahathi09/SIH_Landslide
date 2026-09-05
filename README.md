@@ -1,3 +1,5 @@
+#DS3MN
+
 # AI-Based Early Warning and Landslide Risk Monitoring System in NER
 
 ## SIH 2026 Project
@@ -23,4 +25,4 @@ This project aims to develop an AI-based system for monitoring and predicting la
 - [Backend – To be decided]
 
 ### Team
-SIH 2026 Team
+DS3MN Team
